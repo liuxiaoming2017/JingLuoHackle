@@ -1,0 +1,281 @@
+/* 
+  Localizable.strings
+  JingLuoHackle
+
+  Created by 刘晓明 on 2018/9/7.
+  Copyright © 2018年 刘晓明. All rights reserved.
+*/
+
+"PresentMusic"="Present Music";
+
+"AlreadyListened" = "Already listened";
+
+"Myexercise" = "My exercise";
+"Suggestedreading" = "Related readings";
+
+//Discover
+"发现" = "Discover";
+"Help" = "Help";
+"Feedback" = "Feedback";
+"About" = "About";
+"Activitycontent" = "Activity content";
+
+
+//我的运动
+"all"="All   ";
+"Prepare"="Prepare";
+"FirstMode"="1:Starting";
+"SecondMode"="2:Stretch finger& lean back";
+"ThirdMove"="3:Bend down";
+"FourthMode"="4:Swing left&right";
+"FifthMode"="5:Bend on body sides";
+"SixthMode"="6:Bend down intensively";
+"SeventhMode"= "7:Embrace yourself";
+"EighthMede"="8:Ending";
+
+"return"="Back";
+
+//意见反馈
+"feedback" = "Feedback";
+"youradvices"="Thank you for your valuable advices";
+"yourcomments"="Please fill in with your valuable comments";
+"submit"="Submit";
+
+//经络知识
+"meridians"="Knowledge about meridians";
+"hotproblems"="Hot";
+"healthPreservation" = "Regimen";
+"solarterms"="Throttle health";
+
+"个人信息"="Personal information";
+"保存"="Save";
+"手机号码"="Cellphone number";
+"头像"="Profile";
+"用户名"="Nickname";
+"性别"="Sex";
+"出生日期"="Date of birth";
+"居住地址"="Residential address";
+"固定电话"="Fixed-line telephone";
+"证件类型"="Certificate Type";
+"证件号码"="ID Number";
+"保险"="Do you have medical insurance";
+"男"="male";
+"女"="female";
+"请选择生日"="Please select here";
+"请输入电话"="Please input here";
+"请选择证件类型"="Please select here";
+"有"="Yes";
+"无"="No";
+"身份证"="ID card";
+"军官证"="Official card";
+"护照"="Passport";
+"其他"="Other";
+"请输入居住地址"="Please input here";
+"请输入固定电话"="Please input here";
+"请输入用户名"="Please input here";
+"请输入证件号码"="Please input here";
+"抱歉，请检查您的网络是否畅通" = "Please check whether the network is open";
+"提示"="Hint";
+"登录超时，请重新登录"="Login timeout, please login again";
+"信息更新成功"="Information updated successfully";
+"军官证"="official card";
+"请填写正确的证件号码"="Please fill in the correct identification number";
+"没有选择证件类型"="Please select the type of certificate";
+"拍照"="Take a photo";
+"选取照片"="Select a photo";
+"加载中..."="Loading...";
+"取消"="cancel";
+//蓝牙
+"还没有樂絡怡"="Not having a Yueluoyi yet? ";
+"点我了解"="Click me";
+"没连接上" = "Connection failed? Press On-Off button for 3 seconds until indicator light shines.";
+"下一步" = "Next";
+
+"关于我们"="About us";
+"现在就去试试音乐" = "Go to music now";
+"现在就去经络运动" = "Go to sports now";
+
+/**反馈**/
+"请填写反馈意见" = "Please fill in feedback";
+"资讯详情"="Information details";
+"微信好友" = "WeChat Friend";
+"新浪微博" = "Sina Weibo";
+"微信朋友圈" = "WeChat";
+"经络功能状态评估" = "Meridian status assessment";
+"和畅行运动" = "Harmoney Xing exercise";
+"您的经络功能状态类型" = "The type of your meridians functioning status afafafaa";
+
+/**登录注册**/
+"确定"="sure";
+"退出登录"="Log out";
+"确认退出登录吗?"="Are you sure you want to log out?";
+"请输入密码"="enter one user name";
+"请输入密码"="Please input password";
+"记住我"=" Remember me";
+"登录"="Login";
+"忘记密码"="Forget the password";
+"注册新用户"="Register new users";
+"请输入您的手机号"="Please enter your phone number";
+"请输入您的密码"="Please input your password";
+"请确认您的密码"="Please confirm your password";
+"请输入手机验证码"="Auth code";
+"获取验证码"="Get auth code";
+"我已阅读并同意服务条款"="I have read and Agreed the Terms of Service";
+"注册并登录"="Register and login";
+"注册说明"="Registration instructions";
+"登录成功,欢迎"="Login successful, welcome";
+"登录失败"="Login failed";
+"抱歉登录失败，请重试"="Sorry, login failed. Please try again";
+"请输入用户名或密码"="Please enter your username and password";
+"输入用户名"="Please input user name";
+"登录手机号不能为空"="Phone number can not be empty";
+"短信验证码发送失败，请重试"="SMS verification code failed. Please try again";
+"密码设置不能为空"="Password settings cannot be empty";
+"手机号格式错误，请正确输入您的手机号码"="Wrong phone number, please input your phone number correctly";
+"请阅读条款"="Please read the terms";
+"请获取注册码"="Please get registration code";
+"两次输入的密码不一致"="Entered passwords differ!";
+"数字或字符组合"="Please enter 6-20 bit characters, using alphabetic, numeric or character combinations";
+"注册"="Register";
+"注册说明"="Registration note";
+"提交" = "Submit";
+
+//忘记密码
+"请确认您的新密码"="Please confirm your new password";
+"请输入您的新密码"="Please input your new password";
+"请在300秒内输入验证码"="Please enter the verification code in 300 seconds";
+"临时密码不能为空"="The temporary password can not be empty";
+"抱歉,修改密码失败,请重试"="Sorry to change the password failed. Please try again";
+
+"蓝牙设置"="Setting———Bluetooth———Turn-on———Find \"yueluoyi\"";
+"连接设备"="Connection equipment";
+
+/**运动**/
+"预备" = "Prepare";
+"全部" = "All";
+"第一式" = "First";
+"第二式" = "Second";
+"第三式" = "Third";
+"第四式" = "Fourth";
+"第五式" = "Fifth";
+"第六式" = "Sixth";
+"第七式" = "Seventh";
+"第八式" = "Eighth";
+
+/* 乐药 */
+"舒思—竭思曲（一）" = "Shusi‑song of hard thinking (1)";
+"舒思—竭思曲（二）" = "Shusi‑song of hard thinking (2)";
+"舒思—竭思曲（三）" = "Shusi‑song of hard thinking (3)";
+"舒思—竭思曲（四）" = "Shusi‑song of hard thinking (4)";
+
+"舒忧—忧悲曲（一）" = "Shuyou‑song of grief (1)";
+"舒忧—忧悲曲（二）" = "Shuyou‑song of grief (2)";
+"舒忧—忧悲曲（三）" = "Shuyou‑song of grief (3)";
+"舒忧—忧悲曲（四）" = "Shuyou‑song of grief (4)";
+
+"舒怒—狂怒曲（一）" = "Shunu‑song of rage (1)";
+"舒怒—狂怒曲（二）" = "Shunu‑song of rage (2)";
+"舒怒—狂怒曲（三）" = "Shunu‑song of rage (3)";
+"舒怒—狂怒曲（四）" = "Shunu‑song of rage (4)";
+
+"舒怒—震怒曲（一）" = "Shunu‑ song of furiousness (1)";
+"舒怒—震怒曲（二）" = "Shunu‑ song of furiousness (2)";
+"舒怒—震怒曲（三）" = "Shunu‑ song of furiousness (3)";
+"舒怒—震怒曲（四）" = "Shunu‑ song of furiousness (4)";
+
+"舒忧—忧曲（一）" = "Shuyou‑song of worry (1)";
+"舒忧—忧曲（二）" = "Shuyou‑song of worry (2)";
+"舒忧—忧曲（三）" = "Shuyou‑song of worry (3)";
+"舒忧—忧曲（四）" = "Shuyou‑song of worry (4)";
+
+"舒喜—狂喜曲（一）" = "Shuxi‑ song of rapture (1)";
+"舒喜—狂喜曲（二）" = "Shuxi‑ song of rapture (2)";
+"舒喜—狂喜曲（三）" = "Shuxi‑ song of rapture (3)";
+"舒喜—狂喜曲（四）" = "Shuxi‑ song of rapture (4)";
+
+"舒恐—恐怖曲（一）" = "Shukong‑ song of horribleness (1)";
+"舒恐—恐怖曲（二）" = "Shukong‑ song of horribleness (2)";
+"舒恐—恐怖曲（三）" = "Shukong‑ song of horribleness (3)";
+"舒恐—恐怖曲（四）" = "Shukong‑ song of horribleness (4)";
+
+"舒思—深思曲（一）" = "Shusi‑ song of deep thinking (1)";
+"舒思—深思曲（二）" = "Shusi‑ song of deep thinking (2)";
+"舒思—深思曲（三）" = "Shusi‑ song of deep thinking (3)";
+"舒思—深思曲（四）" = "Shusi‑ song of deep thinking (4)";
+
+"舒思—思曲（一）" = "Shusi‑ song of thinking (1)";
+"舒思—思曲（二）" = "Shusi‑ song of thinking (2)";
+"舒思—思曲（三）" = "Shusi‑ song of thinking (3)";
+"舒思—思曲（四）" = "Shusi‑ song of thinking (4)";
+
+"舒思—痛思曲（一）" = "Shusi‑ song of thinking in pain (1)";
+"舒思—痛思曲（二）" = "Shusi‑ song of thinking in pain (2)";
+"舒思—痛思曲（三）" = "Shusi‑ song of thinking in pain (3)";
+"舒思—痛思曲（四）" = "Shusi‑ song of thinking in pain (4)";
+
+"舒思—苦思曲（一）" = "Shusi‑ song of languishing (1)";
+"舒思—苦思曲（二）" = "Shusi‑ song of languishing (2)";
+"舒思—苦思曲（三）" = "Shusi‑ song of languishing (3)";
+"舒思—苦思曲（四）" = "Shusi‑ song of languishing (4)";
+
+"舒忧—忧愁曲（一）" = "Shuyou‑ song of depressing (1)";
+"舒忧—忧愁曲（二）" = "Shuyou‑ song of depressing (2)";
+"舒忧—忧愁曲（三）" = "Shuyou‑ song of depressing (3)";
+"舒忧—忧愁曲（四）" = "Shuyou‑ song of depressing (4)";
+
+"舒忧—忧郁曲（一）" = "Shuyou‑ song of melancholy (1)";
+"舒忧—忧郁曲（二）" = "Shuyou‑ song of melancholy (1)";
+"舒忧—忧郁曲（三）" = "Shuyou‑ song of melancholy (1)";
+"舒忧—忧郁曲（四）" = "Shuyou‑ song of melancholy (1)";
+
+"舒怒—盛怒曲（一）" = "Shunu‑ song of violent rage (1)";
+"舒怒—盛怒曲（二）" = "Shunu‑ song of violent rage (2)";
+"舒怒—盛怒曲（三）" = "Shunu‑ song of violent rage (3)";
+"舒怒—盛怒曲（四）" = "Shunu‑ song of violent rage (4)";
+
+"舒喜—欣喜曲（一）" = "Shuxi‑ song of joy (1)";
+"舒喜—欣喜曲（二）" = "Shuxi‑ song of joy (2)";
+"舒喜—欣喜曲（三）" = "Shuxi‑ song of joy (3)";
+"舒喜—欣喜曲（四）" = "Shuxi‑ song of joy (4)";
+
+"舒喜—喜曲（一）" = "Shuxi‑ song of happiness (1)";
+"舒喜—喜曲（二）" = "Shuxi‑ song of happiness (2)";
+"舒喜—喜曲（三）" = "Shuxi‑ song of happiness (3)";
+"舒喜—喜曲（四）" = "Shuxi‑ song of happiness (4)";
+
+"舒喜—窃喜曲（一）" = "Shuxi‑ song of self-chuckling (1)";
+"舒喜—窃喜曲（二）" = "Shuxi‑ song of self-chuckling (2)";
+"舒喜—窃喜曲（三）" = "Shuxi‑ song of self-chuckling (3)";
+"舒喜—窃喜曲（四）" = "Shuxi‑ song of self-chuckling (4)";
+
+"舒恐—恐惧曲（一）" = "Shukong‑ song of fear (1)";
+"舒恐—恐惧曲（二）" = "Shukong‑ song of fear (2)";
+"舒恐—恐惧曲（三）" = "Shukong‑ song of fear (3)";
+"舒恐—恐惧曲（四）" = "Shukong‑ song of fear (4)";
+
+"舒恐—惶恐曲（一）" = "Shusi‑ song of terry (1)";
+"舒恐—惶恐曲（二）" = "Shusi‑ song of terry (2)";
+"舒恐—惶恐曲（三）" = "Shusi‑ song of terry (3)";
+"舒恐—惶恐曲（四）" = "Shusi‑ song of terry (4)";
+
+"舒思—忧怨曲（一）" = "Shusi‑ song of fraught resentment (1)";
+"舒思—忧怨曲（二）" = "Shusi‑ song of fraught resentment (2)";
+"舒思—忧怨曲（三）" = "Shusi‑ song of fraught resentment (3)";
+"舒思—忧怨曲（四）" = "Shusi‑ song of fraught resentment (4)";
+
+"舒喜—暗喜曲（一）" = "Shuxi‑ song of secret delight (1)";
+"舒喜—暗喜曲（二）" = "Shuxi‑ song of secret delight (2)";
+"舒喜—暗喜曲（三）" = "Shuxi‑ song of secret delight (3)";
+"舒喜—暗喜曲（四）" = "Shuxi‑ song of secret delight (4)";
+
+
+"AboutWe" = "1.    About us\nYanhuang Dongfang Healthcare Technologies(Beijing) Co.,Ltd. (hereinafter referred to as “Yanjian Company”) is a high-tech enterprise registered in Beijing in June 2006. The company is headquartered in Beijing and has branches in Beijing, Shanghai, Guangdong and Zhejiang.\nMission: To be the leader in the development of health services industry with Chinese characteristics\nVision: Building Kunlun-Yanhuang health industry group\nCore values: Virtue • Concordance • Self-knowing\n\n2.    Core concept\nAdhering to the philosophy of “people-oriented, people’s health status-oriented, and enabling everyone to enjoy the benefits and economically sustainable health”, the traditional medical concept of “preventive treatment of disease” is integrated into the health protection needs of contemporary people. The TCM characteristic health protection service was creatively put forward [referred to as 'KY3H' service for short), advocating and following the service concept of 'managing risk, solidifying the root cause and enhance the status', and providing with health protection services due to time, place, location (depending on the person and the four factors).\n\n3.     Core technology and products\nSince its establishment, the company has been committed to innovation, research and development. It adheres to the traditional Chinese medicine theory and integrates modern scientific and technological achievements such as modern medicine, biomedical engineering and electronic technology, and has developed a number of core technologies and products with independent intellectual property rights. And a number of national patents have been acquired. \nThe developed service technology products include KY3H constitutional identification-evaluation-intervention system, KY3H syndrome identification-evaluation-intervention system, KY3H audible identification-evaluation-intervention system, Pingheyuan serial constitution-regulating food, meridian regulating magnetic sticker and other health intervention products. The launch of the KY3H mode series products fully meets the needs of consumers for the health management services of “preventive treatment of disease” and is warmly welcomed by the market.\n\n4.    The accumulation of scientific research\nThe company pays attention to the development and accumulation of scientific research technology, and has established dozens of national-level famous TCM practitioners and academicians of the two academies to set up a 'preventive treatment of disease' expert committee, and set up a research and development team consisting of many medical doctors and masters, and continue to actively participate in the national “11th Five-Year” Plan and the “12th Five-Year” Plan for Science and Technology Support and the 863 Program have achieved and accumulated a number of scientific research achievements.\nAt the same time, it has established cooperative relations with many scientific research units, medical institutions and institutions of higher learning in the country, established a virtual research institute for “preventive treatment of disease”, and jointly carried out research and development of technologies and products for “preventive treatment of disease”.\nAfter years of unremitting efforts, continuous innovation and research and development, and a comprehensive 'preventive treatment of disease' service organization was gradually formed integrating production, learning and research. In the future, the company will continue to launch all kinds of products that meet the increasing public's demand in the aspects of culture, technology, products and services of 'preventive treatment of disease' and to improve their quality of life for the people not to get sick, to seldom get sick, and to get sick late.\n\n5.Social practice\nThe company actively participated in the health project “preventive treatment of disease” carried out by the State Administration of Traditional Chinese Medicine in the country, and under the leadership of the leading group project, the “Management Headquarters for the Management of Preventive Treatment of Diseases Alliance” was established. As the initiator and implementation unit of the national health project, the company has participated in the implementation of various types of institutions for the health project, and jointly established a preventive healthcare service system for Traditional Chinese medicine.\nIn recent years, around the implementation of the national health project “preventive treatment of disease”, the company provided special service models of TCM healthcare and technology products, and provided a comprehensive solution of preventive treatment for healthcare, women and children institutions at all levels. The customer base covers professional medical institutions and community health service centers in major cities in China.\nFrom 2009 to 2011, demonstration areas were successfully established the “preventive treatment of disease” in Changning District of Shanghai, Xicheng District of Beijing and Gongshu District of Hangzhou. All the people in these districts were provided with health identification services and intervention services covering nearly 200,000 people, the Know Yourself (KY3H) service has been widely recognized by the society.\n\nCompany contact information:\nNational unified customer service center:（86）400-811-8899 \nE-mail: ky3h@ky3h.com \nFax:（86）010-57591880 \nAddress: 9F. Block A, Jialong International Tower, No.19 Chaoyang Park Road, Chaoyang District, Beijing";
+
+"RegistText"="Yanhuang Dongfang Healthcare Technologies (Beijing) Co., Ltd owns all the intellectual property right for “HARMONY YI” human body meridian status conditioning system as well as all the related prints and audio-visual products, which are protected by the relevant laws of the People's Republic of China and applied for Zhiji KY3H Voice Hearing and Identification, getting personalized ”Identification Report“ and “Healthcare Recommendations”, downloading and listening to Emotion-Conditioning Music, self-management of meridian conditioning and exercises, etc.";
+
+
+
+
+
+
+

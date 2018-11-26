@@ -1,0 +1,357 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>type</key>
+		<string>上商</string>
+		<key>type_en</key>
+		<string>Shangshang</string>
+		<key>symptom</key>
+		<string>Prone to suffer: Chest tightness, shortness of breath, fatigue, cough</string>
+		<key>music</key>
+		<string>Prone to suffer: Chest tightness, shortness of breath, fatigue, cough</string>
+		<key>sport</key>
+		<string>Shang music can be selected for regulation. Listen to the music 2 to 3 times and each time lasts for 30 minutes.</string>
+	</dict>
+	<dict>
+		<key>type</key>
+		<string>右商</string>
+		<key>type_en</key>
+		<string>Youshang</string>
+		<key>symptom</key>
+		<string>Prone to suffer: Shortness of breath, fatigue, abdominal distension, constipation, fetid breath.</string>
+		<key>music</key>
+		<string>Suggestion: Practice the whole set of HARMONY Meridian Exercises once, especially at 5am-7am, and repeat 【Second mode of movements】Finger stretching and the body leaning backward for 2 to 3 times.</string>
+		<key>sport</key>
+		<string>Shang musical compositions can be selected for regulation. Listen to the music 2 to 3 times and each time lasts for 30 minutes.</string>
+	</dict>
+	<dict>
+		<key>type</key>
+		<string>少商</string>
+		<key>type_en</key>
+		<string>Shaoshang </string>
+		<key>symptom</key>
+		<string>Shang musical compositions can be selected for regulation. Listen to the music 2 to 3 times and each time lasts for 30 minutes.</string>
+		<key>music</key>
+		<string>Suggestion: Practice the whole set of HARMONY Meridian Exercises once, especially at 5pm-7pm, and repeat【Fifth mode of movements】Bending over on the body sides for 2 to 3 times.
+</string>
+		<key>sport</key>
+		<string>Shang and Gong musical compositions can be selected for regulation. Listen to the music 2 to 3 times and each time lasts for 30 minutes.
+</string>
+	</dict>
+	<dict>
+		<key>type</key>
+		<string>左商</string>
+		<key>type_en</key>
+		<string>Zuoshang</string>
+		<key>symptom</key>
+		<string>Prone to suffer: Chest tightness, shortness of breath, fetid breath, abdominal distension, constipation.</string>
+		<key>music</key>
+		<string>Suggestion: Practice the whole set of HARMONY Meridian Exercises once, especially at 5am-7am, and repeat 【Second mode of movements】Finger stretching and the body leaning backward for 2 to 3 times.</string>
+		<key>sport</key>
+		<string>Shang and Gong musical compositions can be selected for regulation. Listen to the music 2 to 3 times and each time lasts for 30 minutes.
+</string>
+	</dict>
+	<dict>
+		<key>type</key>
+		<string>钛商</string>
+		<key>type_en</key>
+		<string>Taishang</string>
+		<key>symptom</key>
+		<string>Prone to suffer: Chest tightness, shortness of breath, abdominal distension, constipation.</string>
+		<key>music</key>
+		<string>Suggestion: Practice the whole set of HARMONY Meridian Exercises once, especially at 5am-7am, and repeat 【Second mode of movements】Finger stretching and the body leaning backward for 2 to 3 times.</string>
+		<key>sport</key>
+		<string>Shang and Yu musical compositions can be selected for regulation. Listen to the music 2 to 3 times and each time lasts for 30 minutes.</string>
+	</dict>
+	<dict>
+		<key>type</key>
+		<string>上宫</string>
+		<key>type_en</key>
+		<string>Shanggong</string>
+		<key>symptom</key>
+		<string>Prone to suffer: Indigestion, loose stools or constipation, subcutaneous purpura.
+</string>
+		<key>music</key>
+		<string>Suggestion: Practice the whole set of HARMONY Meridian Exercises once, especially at 7am-9am, and repeat 【Sixth mode of movements】Intensive movement of bending over the body to touch the ground for 3 times.</string>
+		<key>sport</key>
+		<string>Gong musical compositions can be selected for regulation. Listen to the music 2 to 3 times and each time lasts for 30 minutes.</string>
+	</dict>
+	<dict>
+		<key>type</key>
+		<string>加宫</string>
+		<key>type_en</key>
+		<string>Jiagong</string>
+		<key>symptom</key>
+		<string>Prone to suffer: Loss of appetite, stomach pain, loose stools or constipation.
+</string>
+		<key>music</key>
+		<string>Suggestion: Practice the whole set of HARMONY Meridian Exercises once, especially at 7am-9am, and repeat 【Sixth mode of movements】Intensive movement of bending over the body to touch the ground for 3 times.
+</string>
+		<key>sport</key>
+		<string>Gong and Shang musical compositions can be selected for regulation. Listen to the music 2 to 3 times and each time lasts for 30 minutes.
+</string>
+	</dict>
+	<dict>
+		<key>type</key>
+		<string>大宫</string>
+		<key>type_en</key>
+		<string>Dagong </string>
+		<key>symptom</key>
+		<string>Prone to suffer: Indigestion, belching, loose stools or constipation.</string>
+		<key>music</key>
+		<string>Suggestion: Practice the whole set of HARMONY Meridian Exercises once, especially at 7am-9am, and repeat 【Sixth mode of movements】Intensive movement of bending over the body to touch the ground for 2 to 3 times.</string>
+		<key>sport</key>
+		<string>Gong and Shang musical compositions can be selected for regulation. Listen to the music 2 to 3 times and each time lasts for 30 minutes.
+</string>
+	</dict>
+	<dict>
+		<key>type</key>
+		<string>少宫</string>
+		<key>type_en</key>
+		<string>Shaogong </string>
+		<key>symptom</key>
+		<string>Prone to suffer: Loss of appetite, indigestion, abdominal distension.
+</string>
+		<key>music</key>
+		<string>Suggestion: Practice the whole set of HARMONY Meridian Exercises once, especially at 7am-9am, and repeat 【Sixth mode of movements】Intensive movement of bending over the body to touch the ground for 2 to 3 times.</string>
+		<key>sport</key>
+		<string>Suggestion: Practice the whole set of HARMONY Meridian Exercises once, especially at 7am-9am, and repeat 【Sixth mode of movements】Intensive movement of bending over the body to touch the ground for 2 to 3 times.</string>
+	</dict>
+	<dict>
+		<key>type</key>
+		<string>左角宫</string>
+		<key>type_en</key>
+		<string>Zuojuegong</string>
+		<key>symptom</key>
+		<string>Prone to suffer: Loss of appetite, belching, loose stool or constipation.
+</string>
+		<key>music</key>
+		<string>Suggestion: Practice the whole set of HARMONY Meridian Exercises once, especially at 7am-9am, and repeat 【Sixth mode of movements】Intensive movement of bending over the body to touch the ground for 2 to 3 times.
+</string>
+		<key>sport</key>
+		<string>Gong and Zhi musical compositions can be selected for regulation. Listen to the music 2 to 3 times and each time lasts for 30 minutes.
+</string>
+	</dict>
+	<dict>
+		<key>type</key>
+		<string>上角</string>
+		<key>type_en</key>
+		<string>Shangjue</string>
+		<key>symptom</key>
+		<string>Prone to suffer: Emotional discomfort, irritability, loss of vision.
+</string>
+		<key>music</key>
+		<string>For your condition of imbalance of liver meridian, we suggest that you practice the whole set of HARMONY Meridian Exercises twice in the near 15 days (each time lasts for 15 minutes), and meanwhile repeat 【Fifth mode of movements】Bending over on the body sides for 3 times, especially at 5pm-7pam, which can contribute to strengthening your meridian status. After the 15 days, please do the “One Speaking” to identify your meridian status in order to boost and maintain your holistic health status.</string>
+		<key>sport</key>
+		<string>Jue musical compositions can be selected for regulation. Listen to the music 2 to 3 times and each time lasts for 30 minutes.</string>
+	</dict>
+	<dict>
+		<key>type</key>
+		<string>判角</string>
+		<key>type_en</key>
+		<string>Panjue</string>
+		<key>symptom</key>
+		<string>Prone to suffer: frequent sigh, pain or distension in the two sides of the chest, headache, dizziness.
+</string>
+		<key>music</key>
+		<string>Suggestion: Practice the whole set of HARMONY Meridian Exercises once, especially at 5pm-7pam, and repeat 【Fifth mode of movements】Bending over on the body sides for 2 to 3 times.
+</string>
+		<key>sport</key>
+		<string>Jue and Zhi musical compositions can be selected for regulation. Listen to the music 2 to 3 times and each time lasts for 30 minutes.
+</string>
+	</dict>
+	<dict>
+		<key>type</key>
+		<string>大角</string>
+		<key>type_en</key>
+		<string>Dajue</string>
+		<key>symptom</key>
+		<string>Prone to suffer: Irritability, loss of appetite, irregular menstruation or breast distension before menstruation.
+</string>
+		<key>music</key>
+		<string>Suggestion: Practice the whole set of HARMONY Meridian Exercises once, especially at 5pm-7pam, and repeat 【Fifth mode of movements】Bending over on the body sides for 2 to 3 times.
+</string>
+		<key>sport</key>
+		<string>Jue and Zhi musical compositions can be selected for regulation. Listen to the music 2 to 3 times and each time lasts for 30 minutes.
+</string>
+	</dict>
+	<dict>
+		<key>type</key>
+		<string>少角</string>
+		<key>type_en</key>
+		<string>Shaojue </string>
+		<key>symptom</key>
+		<string>Prone to suffer: Emotional discomfort, irritability, loss of appetite.
+</string>
+		<key>music</key>
+		<string>Suggestion: Practice the whole set of HARMONY Meridian Exercises once, especially at 5pm-7pam, and repeat 【Fifth mode of movements】Bending over on the body sides for 2 to 3 times.
+</string>
+		<key>sport</key>
+		<string>Jue and Yu musical compositions can be selected for regulation. Listen to the music 2 to 3 times and each time lasts for 30 minutes.
+</string>
+	</dict>
+	<dict>
+		<key>type</key>
+		<string>钛角</string>
+		<key>type_en</key>
+		<string>Taijue</string>
+		<key>symptom</key>
+		<string>Prone to suffer: Irritability, dizziness, irregular menstruation or breast distension before menstruation.
+</string>
+		<key>music</key>
+		<string>Suggestion: Practice the whole set of HARMONY Meridian Exercises once, especially at 5pm-7pam, and repeat 【Fifth mode of movements】Bending over on the body sides for 2 to 3 times.
+</string>
+		<key>sport</key>
+		<string>Jue and Yu musical compositions can be selected for regulation. Listen to the music 2 to 3 times and each time lasts for 30 minutes.</string>
+	</dict>
+	<dict>
+		<key>type</key>
+		<string>上徵</string>
+		<key>type_en</key>
+		<string>Shangzhi</string>
+		<key>symptom</key>
+		<string>Prone to suffer: Chest tightness, flusteredness, insomnia, forgetfulness.
+</string>
+		<key>music</key>
+		<string>Suggestion: Practice the whole set of HARMONY Meridian Exercises once, especially at 1pm-3pm, and repeat 【Fourth mode of movements】Torsion of the waist in the left or right direction for 2 to 3 times.
+</string>
+		<key>sport</key>
+		<string>Zhi musical compositions can be selected for regulation. Listen to the music 2 to 3 times and each time lasts for 30 minutes.</string>
+	</dict>
+	<dict>
+		<key>type</key>
+		<string>判徵</string>
+		<key>type_en</key>
+		<string>Panzhi</string>
+		<key>symptom</key>
+		<string>Prone to suffer: Body weakness, chest tightness, flusteredness, forgetfulness.
+</string>
+		<key>music</key>
+		<string>Suggestion: Practice the whole set of HARMONY Meridian Exercises once, especially at 1pm-3pm, and repeat 【Fourth mode of movements】Torsion of the waist in the left or right direction for 2 to 3 times.
+</string>
+		<key>sport</key>
+		<string>Zhi and Gong musical compositions can be selected for regulation. Listen to the music 2 to 3 times and each time lasts for 30 minutes.
+</string>
+	</dict>
+	<dict>
+		<key>type</key>
+		<string>右徵</string>
+		<key>type_en</key>
+		<string>Youzhi</string>
+		<key>symptom</key>
+		<string>Prone to suffer: Flusteredness, insomnia and forgetfulness.
+</string>
+		<key>music</key>
+		<string>Prone to suffer: Flusteredness, insomnia and forgetfulness.
+</string>
+		<key>sport</key>
+		<string>Zhi and Jue musical compositions can be selected for regulation. Listen to the music 2 to 3 times and each time lasts for 30 minutes.
+</string>
+	</dict>
+	<dict>
+		<key>type</key>
+		<string>少徵</string>
+		<key>type_en</key>
+		<string>Shaozhi</string>
+		<key>symptom</key>
+		<string>Prone to suffer: Shortness of breath, palpitation, chest tightness.
+</string>
+		<key>music</key>
+		<string>Suggestion: Practice the whole set of HARMONY Meridian Exercises once, especially at 1pm-3pm, and repeat 【Fourth mode of movements】Torsion of the waist in the left or right direction for 2 to 3 times.
+</string>
+		<key>sport</key>
+		<string>Zhi and Jue musical compositions can be selected for regulation. Listen to the music 2 to 3 times and each time lasts for 30 minutes.
+</string>
+	</dict>
+	<dict>
+		<key>type</key>
+		<string>质徵</string>
+		<key>type_en</key>
+		<string>Zhizhi</string>
+		<key>symptom</key>
+		<string>Prone to suffer: Shortness of breath, chest tightness, insomnia and forgetfulness.
+</string>
+		<key>music</key>
+		<string>Suggestion: Practice the whole set of HARMONY Meridian Exercises once, especially at 1pm-3pm, and repeat 【Fourth mode of movements】Torsion of the waist in the left or right direction for 2 to 3 times.
+</string>
+		<key>sport</key>
+		<string>Zhi and Gong musical compositions can be selected for regulation. Listen to the music 2 to 3 times and each time lasts for 30 minutes.</string>
+	</dict>
+	<dict>
+		<key>type</key>
+		<string>上羽</string>
+		<key>type_en</key>
+		<string>Shangyu</string>
+		<key>symptom</key>
+		<string>Prone to suffer: Soreness and weakness of waist and knees, insomnia and forgetfulness, nocturia
+</string>
+		<key>music</key>
+		<string>Suggestion: Practice the whole set of HARMONY Meridian Exercises once, especially at 5pm-7pam, and repeat【Third mode of movements】Bending over the body to touch the ground for 2 to 3 times.
+</string>
+		<key>sport</key>
+		<string>Yu musical compositions can be selected for regulation. Listen to the music 2 to 3 times and each time lasts for 30 minutes.
+</string>
+	</dict>
+	<dict>
+		<key>type</key>
+		<string>众羽</string>
+		<key>type_en</key>
+		<string>Zhongyu</string>
+		<key>symptom</key>
+		<string>Prone to suffer: Tinnitus, insomnia, forgetfulness, nocturia.
+</string>
+		<key>music</key>
+		<string>Suggestion: Practice the whole set of HARMONY Meridian Exercises once, especially at 5pm-7pam, and repeat【Third mode of movements】Bending over the body to touch the ground for 2 to 3 times.
+</string>
+		<key>sport</key>
+		<string>Yu and Jue musical compositions can be selected for regulation. Listen to the music 2 to 3 times and each time lasts for 30 minutes.
+</string>
+	</dict>
+	<dict>
+		<key>type</key>
+		<string>大羽</string>
+		<key>type_en</key>
+		<string>Dayu</string>
+		<key>symptom</key>
+		<string>Prone to suffer: Soreness and weakness of waist and knees, insomnia and forgetfulness, male nocturnal emission, female less menstruation or amenorrhea
+</string>
+		<key>music</key>
+		<string>Suggestion: Practice the whole set of HARMONY Meridian Exercises once, especially at 5pm-7pam, and repeat【Third mode of movements】Bending over the body to touch the ground for 2 to 3 times.
+</string>
+		<key>sport</key>
+		<string>Yu and Jue musical compositions can be selected for regulation. Listen to the music 2 to 3 times and each time lasts for 30 minutes.
+</string>
+	</dict>
+	<dict>
+		<key>type</key>
+		<string>少羽</string>
+		<key>type_en</key>
+		<string>Shaoyu</string>
+		<key>symptom</key>
+		<string>Prone to suffer: Soreness and weakness of waist and knees, dizziness, tinnitus, insomnia and forgetfulness.
+</string>
+		<key>music</key>
+		<string>Suggestion: Practice the whole set of HARMONY Meridian Exercises once, especially at 5pm-7pam, and repeat【Third mode of movements】Bending over the body to touch the ground for 2 to 3 times.
+</string>
+		<key>sport</key>
+		<string>Yu and Shang musical compositions can be selected for regulation. Listen to the music 2 to 3 times and each time lasts for 30 minutes.
+</string>
+	</dict>
+	<dict>
+		<key>type</key>
+		<string>桎羽</string>
+		<key>type_en</key>
+		<string>Zhiyu</string>
+		<key>symptom</key>
+		<string>Prone to suffer: Backache, insomnia and forgetfulness, lower extremity edema.
+</string>
+		<key>music</key>
+		<string>Suggestion: Practice the whole set of HARMONY Meridian Exercises once, especially at 5pm-7pam, and repeat【Third mode of movements】Bending over the body to touch the ground for 2 to 3 times.
+</string>
+		<key>sport</key>
+		<string>Yu and Shang musical compositions can be selected for regulation. Listen to the music 2 to 3 times and each time lasts for 30 minutes.</string>
+	</dict>
+</array>
+</plist>

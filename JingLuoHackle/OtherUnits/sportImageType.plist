@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<array>
+		<string>gf_tp_yubeidongzuo_0</string>
+		<string>gf_tp_yubeidongzuo_1</string>
+	</array>
+	<array>
+		<string>gf_tp_qishi_0</string>
+		<string>gf_tp_qishi</string>
+	</array>
+	<array>
+		<string>gf_tp_1_0</string>
+		<string>gf_tp_1_1</string>
+		<string>gf_tp_1_2</string>
+		<string>gf_tp_1_3</string>
+		<string>gf_tp_1_4</string>
+	</array>
+	<array>
+		<string>gf_tp_2_0</string>
+		<string>gf_tp_2_1</string>
+		<string>gf_tp_2_2</string>
+		<string>gf_tp_2_3</string>
+		<string>gf_tp_2_4</string>
+	</array>
+	<array>
+		<string>gf_tp_3_0</string>
+		<string>gf_tp_3_1</string>
+		<string>gf_tp_3_2</string>
+		<string>gf_tp_3_3</string>
+		<string>gf_tp_3_4</string>
+	</array>
+	<array>
+		<string>gf_tp_4_0</string>
+		<string>gf_tp_4_1</string>
+		<string>gf_tp_4_2</string>
+		<string>gf_tp_4_3</string>
+		<string>gf_tp_4_4</string>
+	</array>
+	<array>
+		<string>gf_tp_5_0</string>
+		<string>gf_tp_5_1</string>
+		<string>gf_tp_5_2</string>
+		<string>gf_tp_5_3</string>
+		<string>gf_tp_5_4</string>
+	</array>
+	<array>
+		<string>gf_tp_6_0</string>
+		<string>gf_tp_6_1</string>
+		<string>gf_tp_6_2</string>
+		<string>gf_tp_6_3</string>
+	</array>
+	<array>
+		<string>gf_tp_shoushi_0</string>
+		<string>gf_tp_shoushi_1</string>
+	</array>
+</array>
+</plist>
